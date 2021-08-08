@@ -1,42 +1,19 @@
-.d1 {
-    background-color: blue;
+body{
+    font-family: Arial,sans-serif;
+    text-justify: center;
+    text-align: center;
 }
 
-.d2 {
-    background-color: pink;
-}
-
-.d3 {
-    background-color: red;
-}
-
-.d4 {
-    background-color: purple;
-}
-
-.d5 {
-    background-color: green;
-}
-
-.d6 {
-    background-color: yellow;
-}
-
-.d7 {
-    background-color: orange;
-}
-
-.d8 {
-    background-color: cornflowerblue;
-}
-
-.d9 {
-    background-color: teal;
-}
-
-.d10 {
-    background-color: olivedrab;
-}
+.d1 { background-color:#38023B; color: #fff; }
+.d2 { background-color:#A288E3; color: #fff; }
+.d3 { background-color: #BBD5ED; color: #fff; }
+.d4 { background-color: #CEFDFF; color: #fff; }
+.d5 { background-color: #CCFFCB; color: #fff; }
+.d6 { background-color: yellow; color: #fff; }
+.d7 { background-color: orange; color: #fff; }
+.d8 { background-color: cornflowerblue; color: #fff; }
+.d9 { background-color: teal; color: #fff; }
+.d10 { background-color: olivedrab; color: #fff; }
 
 .container {
     margin-bottom: 20px;
